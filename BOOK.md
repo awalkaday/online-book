@@ -13,7 +13,7 @@ _This text document has been a work-in-progress since [May 2021](https://github.
 
 _A visual chart showing additions and deletions to this document, on a weekly basis over a long time window, can be viewed at [https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)._
 
-  
+* * *  
 
 READING GUIDE
 
