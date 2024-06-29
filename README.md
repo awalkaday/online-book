@@ -1,2 +1,2 @@
-# symmetrical-octo-funicular
-onchain book about *awalkaday.art*
+# online book project
+a book about *awalkaday.art*
