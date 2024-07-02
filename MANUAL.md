@@ -61,5 +61,6 @@ _ _ _
 ## References: GitBook FAQs Docs  
 - Importing via GitSync : https://docs.gitbook.com/content-editor/import#importing-via-git-sync
 - UI and Page Navigation : https://docs.gitbook.com/content-editor/editor/navigation
-- Content configuration : https://docs.gitbook.com/integrations/git-sync/content-configuration  
+- Content configuration : https://docs.gitbook.com/integrations/git-sync/content-configuration
+- GitHub & GitLab Sync : https://docs.gitbook.com/integrations/git-sync  
 
