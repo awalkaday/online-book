@@ -9,13 +9,13 @@ ONCHAIN BOOK [_COMING SOON_](https://app.ens.domains/about.awalkaday.art?tab=rec
 
 _I work on this artistic project in my spare time, in public, independently, and at the pace of a [tortoise](https://en.m.wikipedia.org/wiki/Cultural_depictions_of_turtles "Cultural depiction of tortoises (turtles that slowly walk on terrestrial lands)"). The first coding blocks of the project appeared online in [November 2017](https://github.com/daqhris/daqhris.github.io/commit/80a18e2a08c1413ea8b4a26d1a86129624b8809f "Earliest related commit on GitHub: Created FAQ file for "). From the beginning, the creative process was intuitive, progressed non-linearly, and is time-stamped by a digital clock._
 
-_This text document has been a work-in-progress since [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4). Countless public drafts and serene outdoor walks have shaped it into its current state, akin to a therapeutic craft and exercise. To view the history of its changes, visit [GitHub.com](https://github.com/awalkaday/about-awalkaday-art) (Last modification: [June 29, 2024](https://github.com/awalkaday/about-awalkaday-art/commits/replit/index.html))._
+_This text document has been a work-in-progress since [May 2021](https://github.com/awalkaday/about-awalkaday-art/commit/32eced8e914f46d9364a5d5fb6ec11c5bd7be7a4). Countless public drafts and serene outdoor walks have shaped it into its current state, akin to a therapeutic craft and exercise. To view the history of its changes, visit [GitHub.com](https://github.com/awalkaday/about-awalkaday-art) (Last modification: [July 2, 2024](https://github.com/awalkaday/about-awalkaday-art/commits/replit/index.html))._
 
 _A visual chart showing additions and deletions to this document, on a weekly basis over a long time window, can be viewed at [https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency)._
 
 * * *  
 
-READING GUIDE
+READING GUIDE  
 
 1. Introduction to the Photo Series 
 2. Beyond Pixels: A Picturesque Stroll into Nature 
@@ -23,10 +23,10 @@ READING GUIDE
    3.1. On-the-go Photography  
    3.2. Cameras and Photo Editing  
    3.3. Gaming Laptop  
-4. Chronicles of Milestones Navigation 
-   4.1. Ongoing Pathways 
-   4.2. Internet Footprints 
-   4.3. Blockchain Records 
+4. Chronicle of Milestones Navigation  
+   4.1. Ongoing Pathways  
+   4.2. Internet Footprints  
+   4.3. Blockchain Records  
 5. Evolution of a Pixelated Trek on Platforms  
    5.1. Instagram  
    5.2. GitHub  
@@ -37,8 +37,8 @@ READING GUIDE
    6.1. Public Git Commits  
    6.2. Open Source Software  
 7. Artist Profile  
-   7.1. Human Identity 
-   7.2. Training Ground 
+   7.1. Human Identity  
+   7.2. Training Ground  
    7.3. Inception Story  
 8. Contact  
 
@@ -82,7 +82,7 @@ A laptop computer, branded as [Hasee God of War](http://en.haseecomputer.com/Abo
 
 Unfortunately, the gaming computer mysteriously crashed during a malware analysis, six years later, in the winter of 2022. The nearly decade-old computing device, still alive and undiagnosed in his care, eventually regained basic functionality under [Linux](https://www.redhat.com/en/topics/linux/what-is-linux "What is Linux?") software. It's worth noting that the creative tools and works were more than once rescued, recovered or revived thanks to pieces of computer software, Linux and Git, brought to life by a [Finnish-born inventor](https://github.com/torvalds).
 
-### 4\. Chronicles of Milestones Navigation
+### 4\. Chronicle of Milestones Navigation
 
 Let's dive into key moments that have shaped his artistic journey — an odyssey navigated in solitude on the creative path leading to _awalkaday.art._ Each milestone not only marks a significant achievement, but also adds another chapter to an evolving story. Join us as we explore the turning points, triumphs and transformative experiences that have shaped the nature of this photography series.
 
