@@ -74,7 +74,7 @@ it will be necessary to reuse this experimental code repo *'awalkaday/online-boo
 
 The code powering the book will then be developed on a dedicated Markdown-written branch of *['awalkaday/about-awalkaday-art'](https://github.com/awalkaday/about-awalkaday-art)* and ultimately merged into it. 
 The live coding performance will take place during [ETHGlobal Brussels](https://ethglobal.com/events/brussels) on July 12-14, 2024. 
-The non-textual content of the book *about.awalkaday.art* has yet to be selected and integrated into the final product. The end product would be an onchain book [about.awalkaday.art](https://app.ens.domains/about.awalkaday.art), released in celebration of such a special blockchain-themed week in Brussels.  
+The non-textual content of the book has yet to be selected and integrated into the final product. The end product would be an onchain book [about.awalkaday.art](https://app.ens.domains/about.awalkaday.art), released in celebration of such a special blockchain-themed week in Brussels.  
 
 
 This public code repository could serve as a template for future coding challenges and is the fruit of a self-assigned training task in preparation of the soon-to-be published book, powered online by GitBook and onchain by Ethereum. 
