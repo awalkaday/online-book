@@ -82,5 +82,5 @@ The live coding performance will take place during [ETHGlobal Brussels](https://
 
 - Computer-aided activities undertaken during the Ethereum-focused hackhathon might be streamed online and/or publicly recorded. 
 
-- As a solo artist and creative coder taking part in such a global software tournament for the first time, I may request the assistance of a non-human collaborator, 
+- As a solo artist and creative coder taking part in such a global blockchain event for the first time, I may request the assistance of a non-human collaborator, 
 an open-sourced AI agent (Llama or Mistral), during the 72-hours coding challenges. 
