@@ -77,7 +77,7 @@ The live coding performance will take place during [ETHGlobal Brussels](https://
 
 - The non-textual content of the book has yet to be selected and integrated into the final product. The end product would be an onchain book [about.awalkaday.art](https://app.ens.domains/about.awalkaday.art), released in celebration of such a special blockchain-themed week in Brussels. 
 
-- This code repository serves as a public template for future coding challenges and is the fruit of a self-assigned training task in preparation of a soon-to-be published book, powered online by GitBook and onchain by Ethereum. 
+- This code repository serves as a public template for future coding challenges and is the fruit of a self-assigned training task in preparation of a soon-to-be published book, powered online by GitBook and onchain by Ethereum, prior to ETHGlobal Brussels 2024 and Ethereum Community Conference [7]. 
 
 
 - Computer-aided activities undertaken during the Ethereum-focused hackhathon might be streamed online and/or publicly recorded. 
