@@ -1,5 +1,5 @@
 # How turn *about.awalkaday.art* into an online book on *GitBook.com*    
-## Instructions provided by LLAMA 3 (open-source ai) during an interaction with a human at [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat).   
+## Instructions provided by LLAMA 3 (Open-Source AI) during an interaction with a human at [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat).   
 ### PROMPT 
 #### hey there! i will need your assistance for an ongoing project. i am looking for ways to turn a public git code repository of mine (on github) into an online book powered by gitbook. com tools. here is the repo link: https://github.com/awalkaday/about-awalkaday-art. can you advise me in steps to follow in order to turn the index.html of that code repo into a book, by leveraging the git commits format, history and integration of platform tools. thank you. 
 
