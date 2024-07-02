@@ -70,9 +70,9 @@ _ _ _
 ### To-be-continued in 10 days
 
 - In order to preserve the timeline depicting the [evolution of *about.awalkaday.art*](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency) as a Git-based code repository, 
-it will be necessary to reuse this experimental code repo [awalkaday/online-book](https://github.com/awalkaday/online-book) as an instruction manual. 
+it will be necessary to reuse this experimental code repo [awalkaday/online-book](https://github.com/awalkaday/online-book) as an instruction manual (or a template). 
 
-- The code powering the book will then be developed on a dedicated Markdown-written branch of *['awalkaday/about-awalkaday-art'](https://github.com/awalkaday/about-awalkaday-art)* and ultimately merged into it. 
+- The code powering the book will then be developed on a dedicated Markdown-written branch of [awalkaday/about-awalkaday-art](https://github.com/awalkaday/about-awalkaday-art) and ultimately merged into it. 
 The live coding performance will take place during [ETHGlobal Brussels](https://ethglobal.com/events/brussels) on July 12-14, 2024. 
 
 - The non-textual content of the book has yet to be selected and integrated into the final product. The end product would be an onchain book [about.awalkaday.art](https://app.ens.domains/about.awalkaday.art), released in celebration of such a special blockchain-themed week in Brussels. 
