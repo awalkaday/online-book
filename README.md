@@ -1,2 +1,2 @@
 # 📝 Online Book Project
-### An instruction manual about how to create online a digital book about *awalkaday.art*.  
+### An instruction manual about how to create online a book about *awalkaday.art*.  
