@@ -74,12 +74,10 @@ it will be necessary to reuse this experimental code repo *'awalkaday/online-boo
 
 The code powering the book will then be developed on a dedicated Markdown-written branch of *['awalkaday/about-awalkaday-art'](https://github.com/awalkaday/about-awalkaday-art)* and ultimately merged into it. 
 The live coding performance will take place during [ETHGlobal Brussels](https://ethglobal.com/events/brussels) on July 12-14, 2024. 
-The non-textual content of the book has yet to be selected and integrated into the final product. The end product would be an onchain book [about.awalkaday.art](https://app.ens.domains/about.awalkaday.art), released in celebration of such a special blockchain-themed week in Brussels.  
 
 
-This code repository serves as a public template for future coding challenges and is the fruit of a self-assigned training task in preparation of a soon-to-be published book, powered online by GitBook and onchain by Ethereum. 
+The non-textual content of the book has yet to be selected and integrated into the final product. The end product would be an onchain book [about.awalkaday.art](https://app.ens.domains/about.awalkaday.art), released in celebration of such a special blockchain-themed week in Brussels. This code repository serves as a public template for future coding challenges and is the fruit of a self-assigned training task in preparation of a soon-to-be published book, powered online by GitBook and onchain by Ethereum. 
 
 
-Activities undertaken during the Ethereum-focused hackhathon might be streamed online and/or publicly recorded.   
-As a solo artist and creative coder taking part in such a global software tournament for the first time, I may request the assistance of a non-human collaborator, 
+Activities undertaken during the Ethereum-focused hackhathon might be streamed online and/or publicly recorded. As a solo artist and creative coder taking part in such a global software tournament for the first time, I may request the assistance of a non-human collaborator, 
 an open-sourced AI agent (Llama or Mistral), during the 72-hours coding challenge. 
