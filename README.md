@@ -1,2 +1,2 @@
-# online book project
-a book about *awalkaday.art*
+# 📝 Online Book Project
+### a book about *awalkaday.art*.  
