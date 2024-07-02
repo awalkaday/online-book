@@ -78,6 +78,8 @@ The non-textual content of the book has yet to be selected and integrated into t
 
 
 This code repository serves as a public template for future coding challenges and is the fruit of a self-assigned training task in preparation of a soon-to-be published book, powered online by GitBook and onchain by Ethereum. 
-Activities undertaken during the Ethereum-focused hackhathon might be streamed online and/or publicly recorded. 
+
+
+Activities undertaken during the Ethereum-focused hackhathon might be streamed online and/or publicly recorded.   
 As a solo artist and creative coder taking part in such a global software tournament for the first time, I may request the assistance of a non-human collaborator, 
 an open-sourced AI agent (Llama or Mistral), during the 72-hours coding challenge. 
