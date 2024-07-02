@@ -1,4 +1,4 @@
-# How turn *about.awalkaday.art* into an online book on *GitBook.com*    
+# How to turn *about.awalkaday.art* into an online book on *GitBook.com*    
 ## Instructions provided by LLAMA 3 (Open-Source AI) during an interaction with a human at [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat) on July 2, 2024. 
 
 ### PROMPT 
