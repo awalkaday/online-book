@@ -58,8 +58,24 @@ That's it! With these steps, you should be able to turn your GitHub repository i
 
 _ _ _ 
 
-## References: GitBook FAQs Docs  
+## References 
+### GitBook FAQs Docs  
 - Importing via GitSync : https://docs.gitbook.com/content-editor/import#importing-via-git-sync
 - UI and Page Navigation : https://docs.gitbook.com/content-editor/editor/navigation
 - Content configuration : https://docs.gitbook.com/integrations/git-sync/content-configuration  
 
+_ _ _  
+
+## Public Service Announcement 
+### To-be-continued in 10 days
+
+In order to preserve the historical timeline depicting the [evolution of *about.awalkaday.art*](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency) as a Git-based code repository, 
+it will be necessary to reuse this experimental code repo *'awalkaday/online-book'* as an instruction manual. 
+
+The code powering the digital book will then be developed on its own Markdown-written branch of *'awalkaday/about-awalkaday-art'* and ultimately merged. 
+The live coding performance will take place during ETHGlobal Brussels on July 12-14, 2024. 
+The non-textual content of the book *about.awalkaday.art* has yet to be selected and integrated into the final product. 
+
+Activities undertaken during the Ethereum-focused hackhathon might be streamed online and/or publicly recorded. 
+As a solo creative coder taking part in a software tournament, I may work with a non-human collaborator, 
+an open-sourced AI agent (Llama or Mistral), during the blockchain weekend event. 
