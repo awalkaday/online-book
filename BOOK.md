@@ -1,3 +1,7 @@
+Before the creation of this document, the below text was manually converted from an [HTML file](https://github.com/awalkaday/about-awalkaday-art/blob/98407afb129e33bd35837a5c1c67da0d887cf5ba/index.html) into a Mardown file by using online [Turndown](https://mixmark-io.github.io/turndown/) (open-sourced on [GitHub.com](https://github.com/mixmark-io/turndown)).
+
+* * *
+
 About: awalkaday.art Photography Collection
 ===========================================
 
