@@ -55,3 +55,11 @@ To turn your GitHub repository into an online book using GitBook, you'll need to
 * Share your book with others and enjoy!
 
 That's it! With these steps, you should be able to turn your GitHub repository into an online book using GitBook. If you have any specific questions or need further assistance, feel free to ask.
+
+_ _ _ 
+
+## References: GitBook FAQs Docs  
+- Importing via GitSync : https://docs.gitbook.com/content-editor/import#importing-via-git-sync
+- UI and Page Navigation : https://docs.gitbook.com/content-editor/editor/navigation
+- Content configuration : https://docs.gitbook.com/integrations/git-sync/content-configuration  
+
