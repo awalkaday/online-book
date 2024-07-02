@@ -69,13 +69,15 @@ _ _ _
 ## Public Service Announcement 
 ### To-be-continued in 10 days
 
-In order to preserve the historical timeline depicting the [evolution of *about.awalkaday.art*](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency) as a Git-based code repository, 
+In order to preserve the timeline depicting the [evolution of *about.awalkaday.art*](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency) as a Git-based code repository, 
 it will be necessary to reuse this experimental code repo *'awalkaday/online-book'* as an instruction manual. 
 
-The code powering the digital book will then be developed on its own Markdown-written branch of *'awalkaday/about-awalkaday-art'* and ultimately merged. 
+The code powering the book will then be developed on a dedicated Markdown-written branch of *'awalkaday/about-awalkaday-art'* and ultimately merged into *'awalkaday/about-awalkaday-art'*. 
 The live coding performance will take place during ETHGlobal Brussels on July 12-14, 2024. 
-The non-textual content of the book *about.awalkaday.art* has yet to be selected and integrated into the final product. 
+The non-textual content of the book *about.awalkaday.art* has yet to be selected and integrated into the final product. The end product would be an onchain book about *awalkaday.art*, released in celebration of such a special blockchain-themed week in Brussels.  
 
+
+This public code repository could serve as a template for future coding challenges and is the fruit of a self-assigned training task in preparation of the soon-to-be published book, powered online by GitBook and onchain by Ethereum. 
 Activities undertaken during the Ethereum-focused hackhathon might be streamed online and/or publicly recorded. 
 As a solo creative coder taking part in a software tournament, I may work with a non-human collaborator, 
 an open-sourced AI agent (Llama or Mistral), during the blockchain weekend event. 
