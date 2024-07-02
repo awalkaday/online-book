@@ -188,7 +188,9 @@ Contrary to modern conventions, _awalkaday.art_ is neither a state-sponsored art
 
 ### 8\. Contact
 
-Thank you for your time and interest in this series of photographs. If you have any questions or comments about the collection, please don't hesitate to reach out. Get in touch with [@awalkadayart](https://twitter.com/awalkadayart) on X or send an email to [media@daqhris.com](mailto:media@daqhris.com) or, if you are at ease with encryption, reach out via a [Keybase message](keybase://chat/daqhris).
+Thank you for your time and interest in this series of photographs. If you have any questions or comments about the collection, please don't hesitate to reach out. Get in touch with [@awalkadayart](https://twitter.com/awalkadayart) on X or send an email to [media@daqhris.com](mailto:media@daqhris.com) or, if you are at ease with encryption, reach out via a [Keybase message](https://keybase.io/daqhris/chat).
+
+* * *
 
 awalkaday.art™ • Handbuilt with 🤍 • Made in 🇧🇪  
 _An Undocumented Product of Afro-Surrealism_  
