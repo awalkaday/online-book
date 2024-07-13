@@ -67,20 +67,24 @@ _ _ _
 _ _ _  
 
 ## Public Service Announcement 
-### To-be-continued in 10 days
+### ~~To-be-continued in 10 days~~
 
 - In order to preserve the timeline depicting the [evolution of *about.awalkaday.art*](https://github.com/awalkaday/about-awalkaday-art/graphs/code-frequency) as a Git-based code repository, 
 it will be necessary to reuse this experimental code repo [awalkaday/online-book](https://github.com/awalkaday/online-book) as an instruction manual (or a template). 
 
 - The code powering the book will then be developed on a dedicated Markdown-written branch of [awalkaday/about-awalkaday-art](https://github.com/awalkaday/about-awalkaday-art) and ultimately merged into it. 
-The live coding performance will take place during [ETHGlobal Brussels](https://ethglobal.com/events/brussels) on July 12-14, 2024. 
+~~The live coding performance will take place during [ETHGlobal Brussels](https://ethglobal.com/events/brussels) on July 12-14, 2024.~~ 
 
-- The non-textual content of the book has yet to be selected and integrated into the final product. The end product would be an onchain book [about.awalkaday.art](https://app.ens.domains/about.awalkaday.art), released in celebration of such a special blockchain-themed week in Brussels. 
+- The non-textual content of the book has yet to be selected and integrated into the final product. The end product would be an onchain book [about.awalkaday.art](https://app.ens.domains/about.awalkaday.art) ~~released in celebration of such a special blockchain-themed week in Brussels.~~ 
 
-- This code repository serves as a public template for future coding challenges and is the fruit of a self-assigned training task in preparation of a soon-to-be published book, powered online by GitBook and onchain by Ethereum, prior to [Ethereum Community Conference [7]](https://ethcc.io/) and ETHGlobal Brussels 2024. 
+- This code repository serves as a public template for future coding challenges. It is the fruit of a self-assigned training task in preparation of a soon-to-be published book, powered online by GitBook and onchain by Ethereum, prior to [Ethereum Community Conference [7]](https://ethcc.io/) and [ETHGlobal Brussels 2024](https://ethglobal.com/events/brussels). 
 
+- ~~Computer-aided activities undertaken during the Ethereum-focused hackhathon might be streamed online and/or publicly recorded.~~ 
 
-- Computer-aided activities undertaken during the Ethereum-focused hackhathon might be streamed online and/or publicly recorded. 
+- ~~As a solo artist and creative coder taking part in such a global blockchain event for the first time, I may request the assistance of a non-human collaborator, 
+an open-sourced AI agent (Llama or Mistral), during the 72-hours coding challenge.~~
 
-- As a solo artist and creative coder taking part in such a global blockchain event for the first time, I may request the assistance of a non-human collaborator, 
-an open-sourced AI agent (Llama or Mistral), during the 72-hours coding challenge. 
+### _UPDATE (2024/07/13)_   
+_Future and announced plans for this coding project were unilaterally canceled on July 12, 2024. 
+Due to insufficient funds to publish an onchain book and a last-minute avoidance of greedy intent. 
+A new and better approach will be considered later as more skills are acquired during the summer hackathon._ 
